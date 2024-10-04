@@ -4,3 +4,6 @@ def hollow_square(n):
             print("x" * n)
         else:
             print("x" + " " * (n - 2) + "x")
+
+
+try: 

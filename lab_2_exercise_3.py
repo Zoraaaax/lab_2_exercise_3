@@ -14,3 +14,4 @@ try:
         hollow_square(length)
 
 except ValueError:
+    print("Invalid input! Please enter an integer.")

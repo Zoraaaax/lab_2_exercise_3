@@ -11,3 +11,4 @@ try:
     if length < 2:
         print("Invalid! Length must be 2 or greater.")
     else:
+        hollow_square(length)

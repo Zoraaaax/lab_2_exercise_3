@@ -6,4 +6,6 @@ def hollow_square(n):
             print("x" + " " * (n - 2) + "x")
 
 
-try: 
+try:
+    length = int(input("Enter the length of the square: "))
+    

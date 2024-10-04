@@ -10,3 +10,4 @@ try:
     length = int(input("Enter the length of the square: "))
     if length < 2:
         print("Invalid! Length must be 2 or greater.")
+    else:
